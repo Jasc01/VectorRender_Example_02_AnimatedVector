@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/space_ship">
+
+    <target
+        android:animation="@animator/get_crazy"
+        android:name="allBody" />
+
+    <!-- Aquí se pueden poner más animaciones en otros grupos-->
+</animated-vector>
